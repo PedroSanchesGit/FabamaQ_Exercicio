@@ -1,0 +1,50 @@
+﻿  assetManager.cpp
+  game.cpp
+  gameOverState.cpp
+  gameState.cpp
+c:\users\pedro\desktop\gamedevelopment_challenge_pedrosanches\pedrosanches_fabamaq\game\gamestate.cpp(39): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\pedro\desktop\gamedevelopment_challenge_pedrosanches\pedrosanches_fabamaq\game\gamestate.cpp(49): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\pedro\desktop\gamedevelopment_challenge_pedrosanches\pedrosanches_fabamaq\game\gamestate.cpp(84): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\pedro\desktop\gamedevelopment_challenge_pedrosanches\pedrosanches_fabamaq\game\gamestate.cpp(85): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\pedro\desktop\gamedevelopment_challenge_pedrosanches\pedrosanches_fabamaq\game\gamestate.cpp(85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  inputManager.cpp
+c:\users\pedro\desktop\gamedevelopment_challenge_pedrosanches\pedrosanches_fabamaq\game\inputmanager.cpp(20): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+c:\users\pedro\desktop\gamedevelopment_challenge_pedrosanches\pedrosanches_fabamaq\game\inputmanager.cpp(20): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  main.cpp
+  mainMenuState.cpp
+c:\users\pedro\desktop\gamedevelopment_challenge_pedrosanches\pedrosanches_fabamaq\game\mainmenustate.cpp(41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  pauseState.cpp
+  splashState.cpp
+  stateMachine.cpp
+  Generating code
+  All 545 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Game.vcxproj -> C:\Users\pedro\Desktop\gameDevelopment_Challenge_PedroSanches\PedroSanches_Fabamaq\Release\Game.exe
